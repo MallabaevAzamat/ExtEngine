@@ -1,0 +1,23 @@
+type project
+owners
+    Fenex9428 (Mallabaev Azamat)
+authors 
+    Fenex9428 (Mallabaev Azamat)
+projectUrl
+    http://github.com/MallabaevAzamat/ExtEngine
+iconUrl
+    https://raw.githubusercontent.com/MallabaevAzamat/ExtEngine/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/MallabaevAzamat/ExtEngine/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    ext-engine
+summary
+    small core for extensible project, similary for electron (base of atom-editor), but constructed on .net platform
+description
+    small core for extensible project, similary for electron (base of atom-editor), but constructed on .net platform
+
+
